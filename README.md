@@ -1,2 +1,3 @@
-# slm-small-language-model-in-python
-you can train your slm model using this code
+you can use this to train your slm model.
+
+# toturial
