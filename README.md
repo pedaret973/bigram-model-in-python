@@ -7,3 +7,7 @@ enter your text in "text.txt"
 
 it will use the text in it to train the "model"
 
+run it
+
+
+
